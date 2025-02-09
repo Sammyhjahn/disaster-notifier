@@ -15,9 +15,6 @@ The system provides early warnings, sends alerts to authorities, and allows remo
 - **Networking**: IoT-based real-time monitoring
 - **Hardware**: Sensors (Temperature, Gas, Motion, Vibration)
 
-## 📸 Screenshots
-(Add images of the project here)
-
 ## 🎥 Demo Video
 
 https://www.youtube.com/watch?v=LJ7OsniMZeU
